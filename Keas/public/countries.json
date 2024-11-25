@@ -1,0 +1,930 @@
+[
+    {
+        "tr": "ABD Virjin Adaları (ABD)",
+        "en": "US Virgin Islands (USA)"
+    },
+    {
+        "tr": "Abhazya",
+        "en": "Abkhazia"
+    },
+    {
+        "tr": "Ağrotur ve Dikelya (Birleşik Krallık)",
+        "en": "Agrotur and Dhekelia (UK)"
+    },
+    {
+        "tr": "Afganistan",
+        "en": "Afghanistan"
+    },
+    {
+        "tr": "Almanya",
+        "en": "Germany"
+    },
+    {
+        "tr": "Amerikan Samoası (ABD)",
+        "en": "American Samoa (USA)"
+    },
+    {
+        "tr": "Andorra",
+        "en": "Andorra"
+    },
+    {
+        "tr": "Angola",
+        "en": "Angola"
+    },
+    {
+        "tr": "Anguilla (Birleşik Krallık)",
+        "en": "Anguilla (UK)"
+    },
+    {
+        "tr": "Antarktika",
+        "en": "Antarctica"
+    },
+    {
+        "tr": "Antigua ve Barbuda",
+        "en": "Antigua and Barbuda"
+    },
+    {
+        "tr": "Arjantin",
+        "en": "Argentina"
+    },
+    {
+        "tr": "Arnavutluk",
+        "en": "Albania"
+    },
+    {
+        "tr": "Aruba (Hollanda)",
+        "en": "Aruba (Netherlands)"
+    },
+    {
+        "tr": "Ashmore ve Cartier Adaları(Avustralya)",
+        "en": "Ashmore and Cartier Islands (Australia)"
+    },
+    {
+        "tr": "Avustralya",
+        "en": "Australia"
+    },
+    {
+        "tr": "Avusturya",
+        "en": "Austria"
+    },
+    {
+        "tr": "Azerbaycan",
+        "en": "Azerbaijan"
+    },
+    {
+        "tr": "Bahamalar",
+        "en": "Bahamas"
+    },
+    {
+        "tr": "Bahreyn",
+        "en": "Bahrain"
+    },
+    {
+        "tr": "Bangladeş",
+        "en": "Bangladesh"
+    },
+    {
+        "tr": "Barbados",
+        "en": "Barbados"
+    },
+    {
+        "tr": "Batı Sahra",
+        "en": "Western sahra"
+    },
+    {
+        "tr": "Belçika",
+        "en": "Belgium"
+    },
+    {
+        "tr": "Belize",
+        "en": "Belize"
+    },
+    {
+        "tr": "Benin",
+        "en": "Benin"
+    },
+    {
+        "tr": "Bermuda (Birleşik Krallık)",
+        "en": "Bermuda (United Kingdom)"
+    },
+    {
+        "tr": "Beyaz Rusya",
+        "en": "Belarus"
+    },
+    {
+        "tr": "Bhutan",
+        "en": "Bhutan"
+    },
+    {
+        "tr": "Birleşik Arap Emirlikleri",
+        "en": "United Arab Emirates"
+    },
+    {
+        "tr": "Birleşik Krallık",
+        "en": "United Kingdom"
+    },
+    {
+        "tr": "Bolivya",
+        "en": "Bolivia"
+    },
+    {
+        "tr": "Bosna-Hersek",
+        "en": "Bosnia Herzegovina"
+    },
+    {
+        "tr": "Botsvana",
+        "en": "Botswana"
+    },
+    {
+        "tr": "Bouvet Adası (Norway)",
+        "en": "Bouvet Island (Norway)"
+    },
+    {
+        "tr": "Brezilya",
+        "en": "Brazil"
+    },
+    {
+        "tr": "Britanya Hint Okyanusu Toprakları",
+        "en": "British Indian Ocean Territory"
+    },
+    {
+        "tr": "Britanya Virjin Adaları",
+        "en": "British Virgin Islands"
+    },
+    {
+        "tr": "Brunei",
+        "en": "Brunei"
+    },
+    {
+        "tr": "Bulgaristan",
+        "en": "Bulgaria"
+    },
+    {
+        "tr": "Burkina Faso",
+        "en": "Burkina Faso"
+    },
+    {
+        "tr": "Burma",
+        "en": "Burma"
+    },
+    {
+        "tr": "Burundi",
+        "en": "Bujumbura"
+    },
+    {
+        "tr": "Cayman Adaları",
+        "en": "Cayman Islands"
+    },
+    {
+        "tr": "Cebelitarık",
+        "en": "Gibraltar"
+    },
+    {
+        "tr": "Cezayir",
+        "en": "Algeria"
+    },
+    {
+        "tr": "Christmas Adası(Avustralya)",
+        "en": "Christmas Island(Australia)"
+    },
+    {
+        "tr": "Cibuti",
+        "en": "Djibouti"
+    },
+    {
+        "tr": "Clipperton Adası (Fransa)",
+        "en": "Clipperton Island (France)"
+    },
+    {
+        "tr": "Curaçao (Hollanda)",
+        "en": "Curacao (Netherlands)"
+    },
+    {
+        "tr": "Çad",
+        "en": "Chad"
+    },
+    {
+        "tr": "Çek Cumhuriyeti",
+        "en": "Czech Republic"
+    },
+    {
+        "tr": "Çin",
+        "en": "China"
+    },
+    {
+        "tr": "Dağlık Karabağ",
+        "en": "Mountainous Karabakh"
+    },
+    {
+        "tr": "Danimarka",
+        "en": "Denmark"
+    },
+    {
+        "tr": "Demokratik Kongo Cumhuriyeti",
+        "en": "Democratic Republic of Congo"
+    },
+    {
+        "tr": "Doğu Timor",
+        "en": "East Timor"
+    },
+    {
+        "tr": "Dominik Cumhuriyeti",
+        "en": "Dominican Republic"
+    },
+    {
+        "tr": "Dominika",
+        "en": "Dominica"
+    },
+    {
+        "tr": "Ekvador",
+        "en": "Ecuador"
+    },
+    {
+        "tr": "Ekvator Ginesi",
+        "en": "Equatorial Guinea"
+    },
+    {
+        "tr": "El Salvador",
+        "en": "El Salvador"
+    },
+    {
+        "tr": "Endonezya",
+        "en": "Indonesia"
+    },
+    {
+        "tr": "Eritre",
+        "en": "Eritrea"
+    },
+    {
+        "tr": "Ermenistan",
+        "en": "Armenia"
+    },
+    {
+        "tr": "Estonya",
+        "en": "Estonia"
+    },
+    {
+        "tr": "Etiyopya",
+        "en": "Ethiopia"
+    },
+    {
+        "tr": "Falkland Adaları",
+        "en": "Falkland Islands"
+    },
+    {
+        "tr": "Faroe Adaları (Danimarka)",
+        "en": "Faroe Islands (Denmark)"
+    },
+    {
+        "tr": "Fas",
+        "en": "Morocco"
+    },
+    {
+        "tr": "Fiji",
+        "en": "Fiji"
+    },
+    {
+        "tr": "Fildişi Sahili",
+        "en": "Ivory Coast"
+    },
+    {
+        "tr": "Filipinler",
+        "en": "Philippines"
+    },
+    {
+        "tr": "Filistin",
+        "en": "State of Palestine"
+    },
+    {
+        "tr": "Finlandiya",
+        "en": "Finland"
+    },
+    {
+        "tr": "Fransa",
+        "en": "France"
+    },
+    {
+        "tr": "Fransız Güney ve Antarktika Toprakları (Fransa)",
+        "en": "French Southern and Antarctic Territories (France)"
+    },
+    {
+        "tr": "Gabon",
+        "en": "Gabon"
+    },
+    {
+        "tr": "Gambiya",
+        "en": "Gambia"
+    },
+    {
+        "tr": "Gana",
+        "en": "Ghana"
+    },
+    {
+        "tr": "Gine",
+        "en": "Guinea"
+    },
+    {
+        "tr": "Gine Bissau",
+        "en": "Guinea' Bissau"
+    },
+    {
+        "tr": "Grenada",
+        "en": "Grenada"
+    },
+    {
+        "tr": "Grönland (Danimarka)",
+        "en": "Greenland (Denmark)"
+    },
+    {
+        "tr": "Guam (ABD)",
+        "en": "Guam (USA)"
+    },
+    {
+        "tr": "Guatemala",
+        "en": "Guatemala"
+    },
+    {
+        "tr": "Guyana",
+        "en": "Guyana"
+    },
+    {
+        "tr": "Güney Afrika",
+        "en": "South Africa"
+    },
+    {
+        "tr": "Güney Kore",
+        "en": "Republic of Korea"
+    },
+    {
+        "tr": "Güney Osetya",
+        "en": "South Ossetia"
+    },
+    {
+        "tr": "Güney Sudan",
+        "en": "South Sudan"
+    },
+    {
+        "tr": "Gürcistan",
+        "en": "Georgia"
+    },
+    {
+        "tr": "Haiti",
+        "en": "Haiti"
+    },
+    {
+        "tr": "Hırvatistan",
+        "en": "Croatia"
+    },
+    {
+        "tr": "Hindistan",
+        "en": "India"
+    },
+    {
+        "tr": "Hollanda",
+        "en": "The Netherlands\/"
+    },
+    {
+        "tr": "Honduras",
+        "en": "Honduras"
+    },
+    {
+        "tr": "Hong Kong (Çin)",
+        "en": "Hong Kong (China)"
+    },
+    {
+        "tr": "Irak",
+        "en": "Iraq"
+    },
+    {
+        "tr": "İran",
+        "en": "Iran (Islamic Republic"
+    },
+    {
+        "tr": "İrlanda",
+        "en": "Ireland"
+    },
+    {
+        "tr": "İspanya",
+        "en": "Spain"
+    },
+    {
+        "tr": "İsrail",
+        "en": "State of Israel"
+    },
+    {
+        "tr": "İsveç",
+        "en": "Sweden"
+    },
+    {
+        "tr": "İsviçre",
+        "en": "Switzerland"
+    },
+    {
+        "tr": "İtalya",
+        "en": "Italy"
+    },
+    {
+        "tr": "İzlanda",
+        "en": "Iceland"
+    },
+    {
+        "tr": "Jamaika",
+        "en": "Jamaica"
+    },
+    {
+        "tr": "Japonya",
+        "en": "Japan"
+    },
+    {
+        "tr": "Kamboçya",
+        "en": "Cambodia"
+    },
+    {
+        "tr": "Kamerun",
+        "en": "Cameroon"
+    },
+    {
+        "tr": "Kanada",
+        "en": "Canada"
+    },
+    {
+        "tr": "Karadağ",
+        "en": "Montenegro"
+    },
+    {
+        "tr": "Katar",
+        "en": "Qatar"
+    },
+    {
+        "tr": "Kazakistan",
+        "en": "Kazakhstan"
+    },
+    {
+        "tr": "Kenya",
+        "en": "Kenya"
+    },
+    {
+        "tr": "Kıbrıs",
+        "en": "Cyprus"
+    },
+    {
+        "tr": "Kırgızistan",
+        "en": "Kyrgyzstan"
+    },
+    {
+        "tr": "Kiribati",
+        "en": "Kiribati"
+    },
+    {
+        "tr": "Kolombiya",
+        "en": "Colombia"
+    },
+    {
+        "tr": "Komorlar",
+        "en": "Comoros"
+    },
+    {
+        "tr": "Kongo Cumhuriyeti",
+        "en": "Republic of the Congo"
+    },
+    {
+        "tr": "Kosova",
+        "en": "Kosovo"
+    },
+    {
+        "tr": "Kosta Rika",
+        "en": "Costa Rica"
+    },
+    {
+        "tr": "Kuveyt",
+        "en": "Kuwait"
+    },
+    {
+        "tr": "Kuzey Kore",
+        "en": "Democratic People's"
+    },
+    {
+        "tr": "Küba",
+        "en": "Cuba"
+    },
+    {
+        "tr": "Laos",
+        "en": "Lao People's"
+    },
+    {
+        "tr": "Lesoto",
+        "en": "Lesotho"
+    },
+    {
+        "tr": "Letonya",
+        "en": "Latvia"
+    },
+    {
+        "tr": "Liberya",
+        "en": "Liberia"
+    },
+    {
+        "tr": "Libya",
+        "en": "Libyan Arab"
+    },
+    {
+        "tr": "Lihtenştayn",
+        "en": "Liechtenstein"
+    },
+    {
+        "tr": "Litvanya",
+        "en": "Lithuania"
+    },
+    {
+        "tr": "Lübnan",
+        "en": "Lebanon"
+    },
+    {
+        "tr": "Lüksemburg",
+        "en": "Luxembourg"
+    },
+    {
+        "tr": "Macaristan",
+        "en": "Hungary"
+    },
+    {
+        "tr": "Madagaskar",
+        "en": "Madagascar"
+    },
+    {
+        "tr": "Makao (Çin)",
+        "en": "Macau (China)"
+    },
+    {
+        "tr": "Makedonya",
+        "en": "Republic of Macedonia"
+    },
+    {
+        "tr": "Malavi",
+        "en": "Malawi"
+    },
+    {
+        "tr": "Maldivler",
+        "en": "Maldives"
+    },
+    {
+        "tr": "Malezya",
+        "en": "Malaysia"
+    },
+    {
+        "tr": "Mali",
+        "en": "Mali"
+    },
+    {
+        "tr": "Malta",
+        "en": "Malta"
+    },
+    {
+        "tr": "Mauritius",
+        "en": "Mauritius"
+    },
+    {
+        "tr": "Meksika",
+        "en": "Mexico"
+    },
+    {
+        "tr": "Mısır",
+        "en": "Egypt"
+    },
+    {
+        "tr": "Mikronezya Federal Devletleri",
+        "en": "Federated States of Micronesia"
+    },
+    {
+        "tr": "Moğolistan",
+        "en": "Mongolia"
+    },
+    {
+        "tr": "Moldova",
+        "en": "Moldova, Republic of"
+    },
+    {
+        "tr": "Monako",
+        "en": "Monaco"
+    },
+    {
+        "tr": "Moritanya",
+        "en": "Mauritania"
+    },
+    {
+        "tr": "Mozambik",
+        "en": "Mozambique"
+    },
+    {
+        "tr": "Namibya",
+        "en": "Namibia"
+    },
+    {
+        "tr": "Nauru",
+        "en": "Nauru"
+    },
+    {
+        "tr": "Nepal",
+        "en": "Nepal"
+    },
+    {
+        "tr": "Nijer",
+        "en": "Niger"
+    },
+    {
+        "tr": "Nijerya",
+        "en": "Nigeria"
+    },
+    {
+        "tr": "Nikaragua",
+        "en": "Nicaragua"
+    },
+    {
+        "tr": "Niue (Yeni Zelanda)",
+        "en": "Niue (New Zealand)"
+    },
+    {
+        "tr": "Norveç",
+        "en": "Norway"
+    },
+    {
+        "tr": "Orta Afrika Cumhuriyeti",
+        "en": "Central African"
+    },
+    {
+        "tr": "Özbekistan",
+        "en": "Uzbekistan"
+    },
+    {
+        "tr": "Pakistan",
+        "en": "Pakistan"
+    },
+    {
+        "tr": "Palau",
+        "en": "Palau"
+    },
+    {
+        "tr": "Panama",
+        "en": "Panama"
+    },
+    {
+        "tr": "Papua Yeni Gine",
+        "en": "Papua New Guinea"
+    },
+    {
+        "tr": "Paraguay",
+        "en": "Paraguay"
+    },
+    {
+        "tr": "Peru",
+        "en": "Peru"
+    },
+    {
+        "tr": "Polonya",
+        "en": "Poland"
+    },
+    {
+        "tr": "Portekiz",
+        "en": "Portugal"
+    },
+    {
+        "tr": "Porto Riko (ABD)",
+        "en": "Puerto Rico (USA)"
+    },
+    {
+        "tr": "Romanya",
+        "en": "Romania"
+    },
+    {
+        "tr": "Ruanda",
+        "en": "Rwanda"
+    },
+    {
+        "tr": "Rusya",
+        "en": "Russian Federation"
+    },
+    {
+        "tr": "Saint Barthélemy (Fransa)",
+        "en": "Saint Barthelemy (France)"
+    },
+    {
+        "tr": "Saint Kitts ve Nevis",
+        "en": "Saint Kitts and Nevis"
+    },
+    {
+        "tr": "Saint Lucia",
+        "en": "Saint Lucia"
+    },
+    {
+        "tr": "Saint Martin (Fransa)",
+        "en": "Saint Martin (France)"
+    },
+    {
+        "tr": "Saint Pierre ve Miquelon (Fransa)",
+        "en": "Saint Pierre and Miquelon (France)"
+    },
+    {
+        "tr": "Saint Vincent ve Grenadinler",
+        "en": "Saint Vincent and the Grenadines"
+    },
+    {
+        "tr": "Samoa",
+        "en": "Samoa"
+    },
+    {
+        "tr": "San Marino",
+        "en": "San Marino"
+    },
+    {
+        "tr": "Senegal",
+        "en": "Senegal"
+    },
+    {
+        "tr": "Seyşeller",
+        "en": "Seychelles"
+    },
+    {
+        "tr": "Sırbistan",
+        "en": "Serbia"
+    },
+    {
+        "tr": "Sierra Leone",
+        "en": "Sierra Leone"
+    },
+    {
+        "tr": "Singapur",
+        "en": "Singapore"
+    },
+    {
+        "tr": "Sint Maarten (Hollanda)",
+        "en": "Sint Maarten (Netherlands)"
+    },
+    {
+        "tr": "Slovakya",
+        "en": "Slovakia"
+    },
+    {
+        "tr": "Slovenya",
+        "en": "Slovenia"
+    },
+    {
+        "tr": "Somali",
+        "en": "Somalia"
+    },
+    {
+        "tr": "Somaliland",
+        "en": "somaliland"
+    },
+    {
+        "tr": "Sri Lanka",
+        "en": "Sri Lanka"
+    },
+    {
+        "tr": "Sudan",
+        "en": "Sudan"
+    },
+    {
+        "tr": "Surinam",
+        "en": "Suriname"
+    },
+    {
+        "tr": "Suriye",
+        "en": "Syrian Arab Republic"
+    },
+    {
+        "tr": "Suudi Arabistan",
+        "en": "Saudi Arabia"
+    },
+    {
+        "tr": "Svalbard ve Jan Mayen (Norveç)",
+        "en": "Svalbard and Jan Mayen (Norway)"
+    },
+    {
+        "tr": "Svaziland",
+        "en": "Swaziland"
+    },
+    {
+        "tr": "Şili",
+        "en": "Chile"
+    },
+    {
+        "tr": "Tacikistan",
+        "en": "Tajikistan"
+    },
+    {
+        "tr": "Tanzanya",
+        "en": "United Republic of"
+    },
+    {
+        "tr": "Tayland",
+        "en": "Thailand"
+    },
+    {
+        "tr": "Tayvan",
+        "en": "Taiwan"
+    },
+    {
+        "tr": "Togo",
+        "en": "Togo"
+    },
+    {
+        "tr": "Tokelau (Yeni Zelanda)",
+        "en": "Tokelau (New Zealand)"
+    },
+    {
+        "tr": "Tonga",
+        "en": "Tonga"
+    },
+    {
+        "tr": "Transdinyester",
+        "en": "Transnistria"
+    },
+    {
+        "tr": "Trinidad ve Tobago",
+        "en": "Trinidad and Tobago"
+    },
+    {
+        "tr": "Tunus",
+        "en": "Tunisia"
+    },
+    {
+        "tr": "Tuvalu",
+        "en": "Tuvalu"
+    },
+    {
+        "tr": "Türkiye",
+        "en": "Turkey"
+    },
+    {
+        "tr": "Türkmenistan",
+        "en": "Turkmenistan"
+    },
+    {
+        "tr": "Uganda",
+        "en": "Uganda"
+    },
+    {
+        "tr": "Ukrayna",
+        "en": "Ukraine"
+    },
+    {
+        "tr": "Umman",
+        "en": "Oman"
+    },
+    {
+        "tr": "Uruguay",
+        "en": "Uruguay"
+    },
+    {
+        "tr": "Ürdün",
+        "en": "Jordan"
+    },
+    {
+        "tr": "Vanuatu",
+        "en": "Vanuatu"
+    },
+    {
+        "tr": "Vatikan",
+        "en": "Vatican"
+    },
+    {
+        "tr": "Venezuela",
+        "en": "Venezuela"
+    },
+    {
+        "tr": "Vietnam",
+        "en": "Vietnam"
+    },
+    {
+        "tr": "Wake Adası (ABD)",
+        "en": "Wake Island (USA)"
+    },
+    {
+        "tr": "Wallis ve Futuna (Fransa)",
+        "en": "Wallis and Futuna (France)"
+    },
+    {
+        "tr": "Yemen",
+        "en": "Yemen"
+    },
+    {
+        "tr": "Yeni Kaledonya (Fransa)",
+        "en": "New Caledonia (France)"
+    },
+    {
+        "tr": "Yeni Zelanda",
+        "en": "New Zealand"
+    },
+    {
+        "tr": "Yunanistan",
+        "en": "Greece"
+    },
+    {
+        "tr": "Zambiya",
+        "en": "Zambia"
+    },
+    {
+        "tr": "Zimbabve",
+        "en": "Zimbabwe"
+    }
+]

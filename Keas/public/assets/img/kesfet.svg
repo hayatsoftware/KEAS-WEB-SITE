@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="101" viewBox="0 0 75 101">
+  <g id="Group_39751" data-name="Group 39751" transform="translate(-923 -885)">
+    <text id="PARKE_LEVHA_KAPI_PANELİ_TEZGAH_SEN_TASARLA" data-name="PARKE LEVHA KAPI PANELİ TEZGAH SEN TASARLA" transform="translate(984 899)" fill="#fff" font-size="13" font-family="Manrope-Bold, Manrope" font-weight="700"><tspan x="-46.774" y="0">KEŞFET</tspan></text>
+    <g id="Group_39107" data-name="Group 39107" transform="translate(229 276)">
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="37.5" cy="37.5" r="37.5" transform="translate(694 635)" fill="#008f4a"/>
+      <g id="Group_39106" data-name="Group 39106" transform="translate(719.351 655.585)">
+        <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(-0.351 0.415)" fill="none" stroke="#fff" stroke-width="1.5">
+          <rect width="25" height="33" rx="12.5" stroke="none"/>
+          <rect x="0.75" y="0.75" width="23.5" height="31.5" rx="11.75" fill="none"/>
+        </g>
+        <line id="Line_1" data-name="Line 1" y2="7.676" transform="translate(12.149 7.055)" fill="none" stroke="#fff" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

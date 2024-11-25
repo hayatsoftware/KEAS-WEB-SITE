@@ -1,0 +1,57 @@
+@import "function";
+
+.section{
+    .article{
+        .content{
+            .block{
+                .head{
+                    font:21px $bold;
+                    margin-bottom: 20px;
+                    text-transform: uppercase;
+                }
+                .col-xl-4{
+                    @media (max-width: 1500px) and (min-width: 992px){
+                        -webkit-box-flex: 0;
+                        -webkit-flex: 0 0 50;
+                        -ms-flex: 0 0 50;
+                        flex: 0 0 50%;
+                        max-width: 50%;
+                    }
+                }
+                .row{
+                    > div{
+                        margin-bottom: 30px;
+                    }
+                }
+                .list{
+                    font:19px $semibold;border:1px solid #CFCFCF;border-radius: 5px;position: relative;
+                    padding-bottom: 60px;
+                    height: 100%;
+                    @media #{$large}{font-size: 15px}
+                    .inner{
+                        padding: 30px;
+                    }
+                    b{
+                        color:$color;font:21px $bold;display: block;margin-bottom: 10px;
+                        @media #{$large}{font-size: 17px;}
+                    }
+                    strong{
+                        color:$color;font:19px $semibold;display: block;margin-top: 10px;
+                        @media #{$large}{font-size: 16px;}
+                    }
+                    a{text-decoration: none;}
+                    .btn1{
+                        display: inline-block;text-decoration: none;font:19px/60px $semibold;text-transform: uppercase;height: 60px;text-align: center;color:$black;border-top:1px solid #CFCFCF;width: 100%;
+                        position: absolute;
+                        bottom: 0;
+                        &:before{
+                            content:"";display: inline-block;background: url('#{$img}map.svg') no-repeat left center;width: 29px;height: 35px;margin-right: 15px;transform: translateY(10px);
+                            @media #{$large}{background-size: 20px !important;margin-right: 0;transform: translateY(8px);vertical-align: sub;}
+                        }
+                        @media #{$large}{font-size: 14px;height: 50px;line-height: 50px}
+                    }
+                }
+            }
+        }
+    }
+}

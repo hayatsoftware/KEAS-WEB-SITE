@@ -1,0 +1,35 @@
+@import "function";
+
+.section{
+    .article{
+        .content{
+            .faq{
+                h3{font-size: 25px}
+                ul{
+                    list-style: none;padding: 0;margin:0;border:1px solid #CFCFCF;text-align: left;
+                    li{
+                       border-bottom: 1px solid #CFCFCF;
+                        &:last-child{border: none}
+                        span{
+                            display: block;cursor: pointer;padding:15px 65px 15px 25px;position: relative; font: 21px $semibold;overflow: hidden;
+                            @media #{$mob}{font-size: 17px;line-height: 20px;}
+                            &:before,&:after{
+                                transition: .4s;content:"";position: absolute;top:0;right:0;background: $color;height: 3px;width: 26px;margin:27px;
+                                @media #{$mob}{width: 17px;margin: 24px;}
+                            }
+                            &:after{transform: rotate(90deg)}
+                        }
+                        .contents{
+                            display: none;padding: 0 25px;font-size: 17px;
+                        }
+                        &.open{
+                            span{
+                                &:after{opacity: 0; transform: rotate(0deg)}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

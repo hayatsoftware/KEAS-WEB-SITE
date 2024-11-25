@@ -1,0 +1,56 @@
+@import "function";
+
+.section{
+    .article{
+        .content{
+            .identity{
+                .head{
+                    color:$color;
+                    font: 21px "Manrope-SemiBold";
+                    margin-bottom: 20px;
+                    text-transform: uppercase;
+                }
+                &.catalog_down{
+                    .row{
+                        @media (min-width: 1400px){
+                            > div{
+                                -webkit-box-flex: 0;
+                                -webkit-flex: 0 0 20%;
+                                -ms-flex: 0 0 20%;
+                                flex: 0 0 20%;
+                                max-width: 20%;
+                            }
+                        }
+                    }
+                    a{
+                        b{
+                            background: url('#{$img}download.svg') no-repeat right top;
+                            font-size: 15px;
+                            padding-right: 25px;
+                        }
+                        picture{
+                            img{
+                                object-fit: cover;
+                                width: 100%;
+                                height: 100%;
+                            }
+                        }
+                    }
+                }
+                a{
+                    display: block;text-decoration: none;margin-bottom: 30px;
+                    picture{
+                        height: 15vw;max-height: 310px;border:1px solid #CFCFCF;overflow: hidden;margin-bottom: 15px;text-align: center;display: flex !important;justify-content: center;align-items: center;
+                        @media #{$horizantalTablet}{height: 210px;}
+                        @media #{$mob}{height: 180px;}
+                        img{max-height: 100%;}
+                    }
+                    b{
+                        font:19px $semibold;display: block;text-transform: uppercase;
+                        @media (max-width: 1650px){font-size: 17px;}
+                    }
+                }
+            }
+        }
+    }
+}

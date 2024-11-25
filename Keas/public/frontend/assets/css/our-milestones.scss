@@ -1,0 +1,55 @@
+@import "function";
+
+b,strong{font-family: $bold;}
+footer{margin-top: 0$i;}
+.section{
+    .article{
+        .content{
+            text-align: center;
+            h1{text-align: left;}
+            ul{
+                list-style: none;padding: 0;max-width: 965px;margin: 50px auto;width: 100%;display: inline-block;
+                li{
+                    position: relative;float: left;width: 100%;padding: 45px 0;
+                    &.active{
+                        i{background: $color;border-color:$color;}
+                    }
+                    i{
+                        position: absolute;top:0;right: 50%;border:2px solid #C4C4C4;width: 19px;height: 19px;background: #ffffff;border-radius: 50%;margin:60px -8px;z-index: 1;transition: .3s;
+                    }
+                    &:before{content:"";position: absolute;top:70px;right: 50%;background: #C4C4C4;height: 100%;width: 2px;}
+                    &:after{
+                        content:"";position: absolute;top:69px;right: 50%;border:1px dashed #C4C4C4;width: 105px;margin: 0 -53px;
+                        @media #{$mob}{display: none}
+                    }
+                    .text{
+                        font-size: 15px;text-align: right;float: left;width: 50%;padding: 0 80px;
+                        @media #{$mob}{padding: 0 20px 0 0;}
+                        b{
+                            display: block;color:$color;font:50px $medium;
+                            @media #{$mob}{font-size: 30px;}
+                        }
+                    }
+                   .images{
+                       width: 50%;float: left;padding: 0 80px;
+                       @media #{$mob}{padding: 0 0 0 20px;}
+                       picture{
+                           display: block;overflow: hidden;border-radius: 10px;height: 135px;max-width: 230px;width: 100%;margin: -30px 0 0;
+                           @media #{$mob}{height: 95px;}
+                           img{object-fit: cover;width: 100%;height: 100%;}
+                       }
+                   }
+                    &:nth-child(even){
+                        .text{
+                            float: right;text-align: left;
+                            @media #{$mob}{padding: 0 0 0 20px;}
+                        }
+                        .images{
+                            @media #{$mob}{padding: 0 20px 0 0;}
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

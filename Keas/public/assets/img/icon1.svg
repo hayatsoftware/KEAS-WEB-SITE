@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <g id="Group_39292" data-name="Group 39292" transform="translate(-1474 -2204)">
+    <g id="Group_39288" data-name="Group 39288" transform="translate(189 -224)">
+      <g id="Ellipse_34" data-name="Ellipse 34" transform="translate(1285 2428)" fill="none" stroke="#fff" stroke-width="1">
+        <circle cx="22.5" cy="22.5" r="22.5" stroke="none"/>
+        <circle cx="22.5" cy="22.5" r="22" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_39290" data-name="Group 39290" transform="translate(1486.872 2217)">
+      <path id="Intersection_2" data-name="Intersection 2" d="M0,9.641A9.669,9.669,0,0,1,9.628,0a9.59,9.59,0,0,1,6.761,2.868L19.257,0V7.23h-7.23L14.654,4.6A7.012,7.012,0,0,0,9.616,2.41,7.221,7.221,0,0,0,2.386,9.641c0,.188.007.374.021.558L.032,10.43C.011,10.17,0,9.906,0,9.641ZM9.616,0h0Z" transform="translate(0 0)" fill="#fff"/>
+      <path id="Intersection_3" data-name="Intersection 3" d="M0,9.641A9.669,9.669,0,0,1,9.628,0a9.59,9.59,0,0,1,6.761,2.868L19.257,0V7.23h-7.23L14.654,4.6A7.012,7.012,0,0,0,9.616,2.41,7.221,7.221,0,0,0,2.386,9.641c0,.188.007.374.021.558L.032,10.43C.011,10.17,0,9.906,0,9.641ZM9.616,0h0Z" transform="translate(19.257 19) rotate(180)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+/* MediapressPack | © 2024 
+ * 
+ * biggenerModal.css is exist. 
+ * 
+ */ 
+
+.biggenerModal{-webkit-animation-duration:0.4s;animation-duration:0.4s;position:fixed;width:100%;top:0;left:0;background:#fff;height:100vh;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;overflow:auto;max-height:calc(100vh);z-index:99}@media (max-width:767px){.biggenerModal{display:block;padding:50px 0 0 0}}.biggenerModal .biggnerContentClose span{cursor:pointer}.biggenerModal .biggenerTimer{position:absolute;top:20px;right:20px}

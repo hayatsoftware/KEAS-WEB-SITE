@@ -1,0 +1,217 @@
+/* MediapressPack | © 2023
+ *
+ * mcpopup_v04.css is exist.
+ *
+ */
+
+.mcPopupClose {
+    outline: 0 !important;
+    background: none;
+    border: none;
+    opacity: 1;
+    font-size: 40px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 40px;
+    padding: 0;
+    line-height:31px;
+    width: 40px
+}
+
+.mcPopupClose:hover span {
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg)
+}
+
+.mcPopupClose span {
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+    display: block;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2px;
+}
+
+.mcPopup {
+    text-align: center
+}
+
+.mcPopup .modal-dialog {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex
+}
+
+.mcPopup .modal-dialog .modal-header {
+    text-align: left;
+    position: relative
+}
+
+.mcPopup .modal-dialog .modal-header .modal-title {
+    padding-right: 35px
+}
+
+.mcPopup .modal-dialog .modal-content {
+    border-radius: 0
+}
+
+.mcPopup .modal-dialog .modal-content p:last-child {
+    margin: 0
+}
+
+.mcPopup .modal-dialog .modal-content .modal-body {
+    text-align: left;
+    position: relative
+}
+
+.mcPopup .modal-dialog .modal-content .modal-body img {
+    max-width: 100%;
+    max-height: 100%
+}
+
+#mcTopTooltip {
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+    position: fixed;
+    width: 100%;
+    z-index: 99999
+}
+
+#mcTopTooltip #allTopTooltip {
+    padding: 20px;
+    -webkit-box-shadow: 0 0 7px rgba(0, 0, 0, 0.168627);
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.168627)
+}
+
+@media only screen and (max-width: 767px) {
+    #mcTopTooltip p {
+        font-size: 13px
+    }
+}
+
+#mcTopTooltip p:last-child {
+    margin: 0
+}
+
+#mcTopTooltip.top.active {
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s
+}
+
+#mcTopTooltip.bottom.active {
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+    bottom: 0 !important
+}
+
+[id^=mctoolTipText] .button {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%)
+}
+
+[id^=mctoolTipText] .button a, [id^=mctoolTipText] .button button {
+    cursor: pointer
+}
+
+[id^=mcBottomTooltip] {
+    position: fixed;
+    bottom: 20px;
+    width: 385px;
+    z-index: 9999
+}
+
+[id^=mcBottomTooltip].right {
+    right: 20px
+}
+
+[id^=mcBottomTooltip].left {
+    left: 20px
+}
+
+@media only screen and (max-width: 767px) {
+    .imageTooltipBox{
+        max-width: 100% !important;
+    }
+    [id^=mcBottomTooltip] {
+        width: 100%;
+        right: 0
+    }
+
+    [id^=mcBottomTooltip] [id^=allBottomTooltip] {
+        margin: 0 20px;
+        position: relative
+    }
+
+    [id^=mcBottomTooltip] p {
+        font-size: 13px
+    }
+}
+
+[id^=mcBottomTooltip] [id^=allBottomTooltip] {
+    padding: 20px;
+    -webkit-box-shadow: 0 0 7px rgba(0, 0, 0, 0.168627);
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.168627);
+    border-radius: 6px
+}
+
+[id^=mcBottomTooltip] p:last-child {
+    margin: 0
+}
+
+[id^=mcBottomTooltip] [id^=mcBottomTooltipClose] {
+    border-radius: 50%;
+    top: -45px;
+    width: 35px;
+    height: 35px;
+    font-size: 30px;
+    position: absolute;
+}
+.left .imageTooltipBox{
+    left:0;
+}
+.right .imageTooltipBox{
+    right:0;
+}
+.imageTooltipBox{
+    border-radius: 0 !important;
+    background: none !important;
+    box-shadow: none !important;
+    max-width: 100%;
+    width: auto !important;
+    position: fixed;
+    bottom: 0;
+    z-index: 5;
+    padding: 10px !important;
+}
+.imageTooltipBox.left{
+    left:0;
+}
+.imageTooltipBox.right{
+    right:0;
+}
+.imageTooltipBox .mcPopupClose{
+    top: -20px !important;
+}
+.imageTooltipBox img{
+    max-width: 100% !important;
+    width: auto !important;
+    height: auto !important;
+}

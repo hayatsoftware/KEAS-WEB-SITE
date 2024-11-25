@@ -1,0 +1,91 @@
+@import "function";
+
+.section{
+    .article{
+        .content{
+            .events{
+                margin-top: 50px;
+                a{
+                    display: block;color:$black;text-decoration: none;position: relative;overflow: hidden;margin-bottom: 30px;
+                    picture{
+                        display: block;overflow: hidden;height: 16vw;max-height: 275px;
+                        @media (max-width: 1400px){height: 13vw;}
+                        @media #{$horizantalTablet}{height: 200px$i;}
+                        img{object-fit: cover;width: 100%;height: 100%;transition: .3s;}
+                    }
+                    b{
+                        font:20px/25px $semibold;position: relative;padding-top: 15px;margin-top: 20px;display: inline-block;display: -webkit-box;-webkit-line-clamp: 2;-webkit-box-orient: vertical;overflow:hidden;height: 65px;
+                        @media (max-width: 1600px){font-size: 17px;line-height: 22px;height: 59px;}
+                        &:before{
+                            content:"";position: absolute;top: 0;left:0;background: $color;height: 4px;width: 60px;transition: .3s;
+                            @media #{$mob}{width: 30px;}
+                        }
+                    }
+                    em,i{
+                        font:15px $semibold;color:#B7B7B7;display: block;margin-top: 5px;
+                        @media (max-width: 1366px){font-size: 15px}
+                    }
+
+                    i{
+                        background: url("#{$img}title.svg") no-repeat left center;
+                        padding-left: 20px;
+                        margin-top: 15px;
+                        display: block;
+                    }
+                    &:hover{
+                        picture{
+                            img{transform: scale(1.2)}
+                        }
+                        b{
+                            &:before{width: 50%;}
+                        }
+                    }
+                }
+            }
+            .picture{
+                height: 365px;overflow: hidden;
+                img{object-fit: cover;width: 100%;height: 100%;}
+                @media (max-width: 1500px){height: 300px;}
+                @media #{$min}{height: 235px;}
+            }
+            .videos{
+                overflow: hidden;margin-top: 30px;display: inline-block;width: 100%;
+                a{
+                    height: 100%;display: block;
+                    @-webkit-keyframes burst{
+                        0%{opacity:.6;}
+                        50%{-webkit-transform:scale(1.8);transform:scale(1.8);opacity:0;}
+                        100%{opacity:0;}
+                    }
+                    @keyframes burst{
+                        0%{opacity:.6;}
+                        50%{-webkit-transform:scale(1.8);transform:scale(1.8);opacity:0;}
+                        100%{opacity:0;}
+                    }
+                    picture{
+                        height: 365px;position: relative;display: block;
+                        @media (max-width: 1500px){height: 300px;}
+                        @media #{$min}{height: 235px;}
+                        img{width: 100%;height: 100%;object-fit: cover;}
+                        .playIco{
+                            position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);text-decoration: none;width: 100px;height: 100px;background: #fff;border-radius: 50%;display: flex;align-items: center;justify-content: center;
+                            @media only screen and (max-width:767px){width: 68px;height: 68px;}
+                            &:before{
+                                content: "";position: absolute;top: 0;right: 0;background: #fff;border-radius: 100%;width: 100px;height: 100px;opacity: .4;margin: 0;-webkit-animation: burst 1.5s infinite linear;animation: burst 1.5s infinite linear;
+                                @media only screen and (max-width:767px){width: 68px;height: 68px;}
+                            }
+                            &:after{
+                                content: "";position: absolute;top: 0;right: 0;background: #fff;border-radius: 100%;width: 150px;height: 150px;opacity: .4;margin: -25px;-webkit-animation: burst 1.5s infinite linear;animation: burst 1.5s infinite linear;
+                                @media only screen and (max-width:767px){width: 80px;margin:-6px;height: 80px;}
+                            }
+                            i{
+                                font-size: 45px;color: $black;display: block;
+                                @media only screen and (max-width:767px){font-size: 25px;}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

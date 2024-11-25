@@ -1,0 +1,1 @@
+Tebrikler! E-Bülten kaydınız başarıyla yapıldı!

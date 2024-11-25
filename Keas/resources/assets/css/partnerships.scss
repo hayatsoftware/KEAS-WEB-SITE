@@ -1,0 +1,48 @@
+@import "function";
+
+.section{
+    .article{
+        .content{
+            table{
+                width: 100% $i;
+                tr{
+                    td{
+                        padding: 4px 30px 4px 0;
+                        line-height: 30px;
+                        width: 50%;
+                        vertical-align: top;
+                        @media #{$mob}{
+                            display: block;
+                            width: 100%;
+                            padding: 0;
+                        }
+                        p{
+                            border-bottom: 1px solid #eee;
+                        }
+                    }
+                }
+            }
+
+            .block{
+                border-bottom: 1px solid #eee;padding: 30px 0;
+                &:last-child{border-bottom: none;}
+            }
+            .head{
+                font-family: $semibold;margin-bottom: 25px;max-width: 450px;
+            }
+            ul{
+                list-style: none;padding: 0;margin: 0;max-width: 450px;
+                li{
+                    padding: 0 0 7px;
+                    a{
+                        text-decoration: none;
+                    }
+                }
+            }
+            .name{padding-bottom: 7px}
+            .how{
+                margin: 70px 0 0;
+            }
+        }
+    }
+}
